@@ -1,0 +1,21 @@
+Resolve Telecom Customer Support Knowledge Base
+
+1. ROUTER BLINKING OR SOLID RED LIGHT:
+- A blinking red light on the FiberBox X1 indicates loss of optical signal (LOS) from the street line.
+- Step 1: Check that the green fiber optic cable is pushed firmly into the PON port until it clicks.
+- Step 2: Unplug the power adapter for 30 seconds and plug it back in.
+- Step 3: If the light remains red after 5 minutes, a field technician visit is required.
+
+2. SLOW WI-FI SPEEDS:
+- Ensure devices are connected to the 5GHz band (SSID ending in _5G) rather than 2.4GHz.
+- Keep the router away from microwaves, thick concrete walls, and cordless phone bases.
+- Run a wired speed test via Ethernet to verify line speed before troubleshooting wireless interference.
+
+3. BILLING AND REFUND POLICY:
+- Service outages lasting longer than 4 consecutive hours qualify for a pro-rated bill credit.
+- Hardware returns must be initiated within 30 days of cancellation using the prepaid shipping label.
+- Unreturned FiberBox X1 routers incur a $150 equipment fee after 30 days.
+
+4. ACCOUNT AND PLAN UPGRADES:
+- Plan upgrades take effect within 15 minutes with no technician visit required.
+- Static IP addresses are available on Business Fiber tiers for an additional $15/month.

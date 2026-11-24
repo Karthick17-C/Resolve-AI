@@ -1,0 +1,20 @@
+# Model Weights & Checkpoints
+resolve-final-model/
+resolve-lora-adapter/
+lora-checkpoints/
+*.safetensors
+*.bin
+*.gguf
+*.pt
+
+# Local Vector Database & Logs
+qdrant_local_db/
+*.log
+
+# Python & Environments
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
